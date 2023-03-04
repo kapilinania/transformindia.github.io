@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header{
+    width: 90%;
+    margin: auto;
+    border: 0px solid red;
+}
+.main{
+    width: 100%;
+    position: relative;
+    background-image: url("https://transformingindia.mygov.in/wp-content/themes/transforming/assets/images/header-bg-pattern.png");
+    height: 70px;
+}
+
+.nav_item_main a{
+    color: white;
+    font-size: 15px;
+}
+.kapil img{
+    height: 50px;
+}
+.user{
+    content: "";
+    background: url(image/title-logo.png) 0 0 no-repeat;
+    width: 36px;
+    height: 36px;
+    margin: auto;
+    border: 0px solid red;
+}
+.icon_size i{
+    width: 100px;
+}
+.kapil_user {
+    font-family: sans-serif;
+    padding-bottom: 10px;
+    
+}
+.inaniya{
+    border-right: 1px solid white;
+}
+.kali_1{
+    border-bottom: 1px solid white;
+}
+.nsti img{
+    border: 0px solid red;
+    transform: scale(1.0);
+    transition: all 0.3s ease 0s;
+    overflow: hidden;
+}
+.nsti img:hover{
+    transform: scale(1.1);
+}
+.nstu_web{
+    border: 0px solid red;
+    overflow: hidden;
+}
+.kapil_jat{
+    width: 100%;
+    background-image: url(image/head.png);
+}
+
